@@ -1,2 +1,2 @@
 # wanghaiting.github.com
-about me
+我的主页
